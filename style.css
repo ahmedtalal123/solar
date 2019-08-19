@@ -1,0 +1,45 @@
+h1,h2{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    background-color: rgba(240, 205, 108, 0.3);
+    text-align: center;
+}
+
+button{
+    display: block;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+}
+
+header{
+    background-image: url(https://www.premierenergy.com.pk/wp-content/uploads/2018/03/160KW-OFF-GRID-TIED-SOLAR-POWER-PLANT-INSTALLED-AT-AN-AUTOMATION-UNIT-IN-LAHORE.jpg);
+    background-repeat: no-repeat;
+    padding: 500px;
+}
+
+h3{
+    text-align: center;
+    color: white;
+}
+
+footer{
+    text-align: center;
+    background-color: blue;
+}
+
+#div3{
+    text-align: center;
+    background-color: rgba(240, 205, 108, 0.3);
+}
+
+#div5{
+    text-align: center;
+    background-color: rgba(240, 205, 108, 0.3);
+}
+
+#p1{
+    text-align: center;
+    color: black;
+}
